@@ -4,12 +4,12 @@
     <body>
       <h1>Explain communication concepts and strategies</h1>
       <img src= "harshil.png"alt"dsf">
-      <h2>show confidence and skills in oral communication and presentation</h2>
+      <h1>show confidence and skills in oral communication and presentation</h1>
        <img src= "harshil1.png"alt"dsf">
-        <h3>work effectively as part of a team</h3>
+        <h1>work effectively as part of a team</h1>
        <img src= "download.png"alt"dsf">
-        <h4>communcation effectively in a profession al context</h4>
-        <h5>define and demonstarte conflict management and resolution strategies</h5>
+        <h1>communcation effectively in a profession al context</h1>
+        <h1>define and demonstarte conflict management and resolution strategies</h1>
     </body>
   </head>
 </html>
