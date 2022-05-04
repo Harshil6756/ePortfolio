@@ -11,6 +11,7 @@
         <h1>communcation effectively in a profession al context</h1>
       <img src= "img.webp"alt"dsf">
         <h1>define and demonstarte conflict management and resolution strategies</h1>
+      <img src= "week.png"alt"dsf">
     </body>
   </head>
 </html>
